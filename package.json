@@ -11,7 +11,7 @@
     "baidu-aip-sdk": "^2.3.9",
     "core-js": "^2.6.5",
     "element-ui": "^2.9.2",
-    "vue": "^2.6.10",
+    "vue": "^2.6.11",
     "vue-router": "^3.0.6"
   },
   "devDependencies": {
@@ -21,7 +21,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
     "root": true,
